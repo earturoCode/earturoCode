@@ -7,13 +7,13 @@
 - **Bases de datos:** MySQL, Oracle SQL
 - **Herramientas y Frameworks:** Git, Linux, UML, Node.js, Express.js
  <p align="center">
-  <a href="https://github.com/peterthehan">
+  <a href="https://github.com/earturoCode">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
       <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"></picture></a>
-  <a href="https://www.linkedin.com/in/peterthehan">
+  <a href="https://www.linkedin.com/in/arturo-fernandez-/">
     <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
-     <a href="mailto:matyo91@gmail.com">
+     <a href="arturofesquivel@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="email" height="48" width="48"/>
   </a>
 </p>
