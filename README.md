@@ -13,7 +13,7 @@
       <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"></picture></a>
   <a href="https://www.linkedin.com/in/arturo-fernandez-/">
     <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
-     <a href="arturofesquivel@gmail.com">
+     <a href="mailto:arturofesquivel@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="email" height="48" width="48"/>
   </a>
 </p>
