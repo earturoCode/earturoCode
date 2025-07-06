@@ -51,7 +51,7 @@ Mi enfoque principal está en el desarrollo de **sistemas cliente-servidor**, **
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
       <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"></picture></a>
   <a href="https://www.linkedin.com/in/arturo-fernandez-/">
-    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
+    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/in-logo/fg/brand-inlogo-hero-fg-dsk-v01.png.original.png"></a>
      <a href="mailto:arturofesquivel@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="email" height="48" width="48"/>
   </a>
