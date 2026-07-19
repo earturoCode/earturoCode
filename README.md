@@ -1,59 +1,97 @@
-# 👨‍💻 **Bienvenido a mi perfil de GitHub** 👨‍💻
+<h1 align="center">👨‍💻 ¡Hola! Soy Arturo Fernández</h1>
 
-¡Hola! Soy **Arturo Fernández**, un desarrollador de software apasionado por crear soluciones eficientes y escalables. 
-Mi enfoque principal está en el desarrollo de **sistemas cliente-servidor**, **bases de datos** y la optimización de procesos.  
+<h3 align="center">📱 Android Developer Native &nbsp;·&nbsp; Kotlin | Jetpack Compose | XML</h3>
 
+<p align="center">🇵🇾 Paraguay</p>
 
+<br/>
 
-## HABILIDADES TÉCNICAS  
+## 🙋‍♂️ Sobre mí
 
-### Base de Datos
-<div align="center">
-  <a href="https://www.mysql.com/" target="_blank">
-    <img style="margin: 10px" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="MySQL" height="50" />
-  </a>
-  <a href="https://www.oracle.com/database/" target="_blank">
-    <img style="margin: 10px" src="https://download.logo.wine/logo/Oracle_SQL_Developer/Oracle_SQL_Developer-Logo.wine.png" alt="Oracle" height="50" />
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img style="margin: 10px" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL Server" height="50" />
-  </a>
-</div>
+- 📱 Desarrollador **Android Native** en **ROSHKA S.A.** (remoto).
+- 🎓 Estudiante de **Ingeniería** en la **Universidad Columbia del Paraguay**.
+- 🚀 Construyo **aplicaciones móviles nativas** con Kotlin y Jetpack Compose, aplicando arquitecturas **MVVM, MVP y MVC**, principios **SOLID** y consumo de **APIs REST**.
+- 🌐 También desarrollo **páginas web** con HTML, CSS, JavaScript y TypeScript.
+- 🌎 De Paraguay 🇵🇾, apasionado por crear soluciones **eficientes y escalables**.
 
-### Herramientas y Entornos de Desarrollo
-<div align="center">
-  <a href="https://git-scm.com/" target="_blank">
-    <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" alt="Git" height="50" />
-  </a>
-  <a href="https://visualstudio.microsoft.com/" target="_blank">
-    <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio" height="50" />
-  </a>
-  <a href="https://netbeans.apache.org/" target="_blank">
-    <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/666px-Apache_NetBeans_Logo.svg.png" alt="NetBeans" height="50" />
-  </a>
-  <a href="https://staruml.io/" target="_blank">
-    <img style="margin: 10px" src="https://avatars.githubusercontent.com/u/7642181?s=280&v=4" alt="StarUML" height="50" />
-  </a>
-</div>
+<br/>
 
+## 🛠️ Habilidades Técnicas
 
-</td></tr></table>  
+### 📱 Desarrollo Móvil
 
-<br/>  
+<p align="center">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
+  <img src="https://img.shields.io/badge/XML-EB8C00?style=for-the-badge&logo=xml&logoColor=white" alt="XML" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+</p>
+
+### 🌐 Desarrollo Web
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
+
+### 🗄️ Bases de Datos
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
+
+### 🏗️ Arquitectura y Conceptos
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MVVM-FF6F00?style=for-the-badge&logoColor=white" alt="MVVM" />
+  <img src="https://img.shields.io/badge/MVP-9C27B0?style=for-the-badge&logoColor=white" alt="MVP" />
+  <img src="https://img.shields.io/badge/MVC-00897B?style=for-the-badge&logoColor=white" alt="MVC" />
+  <img src="https://img.shields.io/badge/SOLID-3776AB?style=for-the-badge&logoColor=white" alt="SOLID" />
+  <img src="https://img.shields.io/badge/REST_APIs-6DB33F?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Metodologías_Ágiles-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Metodologías Ágiles" />
+</p>
+
+### 🧰 Herramientas y Entornos de Desarrollo
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white" alt="NetBeans" />
+  <img src="https://img.shields.io/badge/StarUML-EA4335?style=for-the-badge&logo=staruml&logoColor=white" alt="StarUML" />
+</p>
+
+<br/>
+
+## 📊 Mis Estadísticas de GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=earturoCode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=earturoCode&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<br/>
 
 ---
 
-## 📫 𝙲𝚘𝚗𝚝𝚊𝚌𝚝𝚘:
-𝙿𝚞𝚎𝚍𝚎𝚜 𝚖𝚊𝚗𝚝𝚎𝚗𝚎𝚛 𝚌𝚘𝚗𝚝𝚊𝚌𝚝𝚘 𝚌𝚘𝚖𝚒𝚐𝚘 𝚊𝚝𝚛𝚊𝚟é𝚜 𝚍𝚎:
- <p align="center">
-  <a href="https://github.com/earturoCode">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
-      <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"></picture></a>
-  <a href="https://www.linkedin.com/in/arturo-fernandez-/">
-    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/in-logo/fg/brand-inlogo-hero-fg-dsk-v01.png.original.png"></a>
-     <a href="mailto:arturofesquivel@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="email" height="48" width="48"/>
+## 📫 Contacto
+
+<p align="center">Puedes mantener contacto conmigo a través de:</p>
+
+<p align="center">
+  <a href="https://github.com/earturoCode" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/arturo-fernandez-/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:arturofesquivel@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
-
