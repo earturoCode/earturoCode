@@ -67,16 +67,6 @@
   <img src="https://img.shields.io/badge/StarUML-EA4335?style=for-the-badge&logo=staruml&logoColor=white" alt="StarUML" />
 </p>
 
-<br/>
-
-## 📊 Mis Estadísticas de GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=earturoCode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=earturoCode&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<br/>
 
 ---
 
