@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 ¡Hola! Soy Arturo Fernández</h1>
+<h1 align="center"> ¡Hola! Soy Arturo Fernández</h1>
 
 <h3 align="center">📱 Android Developer Native &nbsp;·&nbsp; Kotlin | Jetpack Compose | XML</h3>
 
@@ -6,7 +6,7 @@
 
 <br/>
 
-## 🙋‍♂️ Sobre mí
+## Sobre mí
 
 - 📱 Desarrollador **Android Native** en **ROSHKA S.A.** (remoto).
 - 🎓 Estudiante de **Ingeniería** en la **Universidad Columbia del Paraguay**.
